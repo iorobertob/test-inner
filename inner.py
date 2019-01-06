@@ -1,1 +1,1 @@
-print 'inner labas'
+print 'inner labas modified'
